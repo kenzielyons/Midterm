@@ -1,0 +1,27 @@
+body{
+    background-color: lightpink;
+    
+}
+h1{
+    background-color: darkslategrey;
+    font-size: 48px;
+    width: 400px;
+    
+}
+a{
+  background-color: darkslategray;
+  font-size: 48px;
+  width: 400px;
+  color:black;
+  white-space: pre-line;
+
+    
+}
+p1{
+    background-color: darkslategray;
+    font-size: 48px;
+    width:400px;
+    
+    
+   
+}
